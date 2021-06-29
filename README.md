@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-<a href="bruno-carvalho-48433016b/">
+<a href="https://www.linkedin.com/in/bruno-carvalho-48433016b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
