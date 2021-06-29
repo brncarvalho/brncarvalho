@@ -24,7 +24,6 @@
 - Cloud Computing (AWS)
 
 
-<br />
 
 ### Languages and Tools:
 
@@ -44,8 +43,6 @@
 
 </p>
 
-<br />
-<br />
 
 ---
 
