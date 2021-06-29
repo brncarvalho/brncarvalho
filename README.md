@@ -1,8 +1,8 @@
 ### Hi there, I'm Bruno Carvalho! 👋
 
-- 🔭 I have Recently graduated in Computer Engineer 
+- 🔭 I have recently graduated in Computer Engineer 
 - 🌱 I’m currently exploring and learning the AI field
-- ⚡ Fun fact: I love playing videogames 
+- ⚡ Fun fact: I love playing videogames and looking forward to develop my first game on the future just for fun
 
 ### Connect with me:
 
