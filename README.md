@@ -27,7 +27,7 @@
 
 ### Languages and Tools:
 
-<p align='center'>
+<p align='left'>
   
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
