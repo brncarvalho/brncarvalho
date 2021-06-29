@@ -8,6 +8,20 @@
 
 [<img align="left" alt="bruno-carvalho-48433016b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+### 🎓 Background
+
+- Computer Engineer Degree - Universidade São Judas
+- Deep Learning Specialization provided by DeepLearning.ai
+
+### 📚 Current Studying
+
+- Deep Learning Udacity Nanodegree
+- Computer Vision 
+- Deployment into production of ML / DS Projects
+- Cloud Computing (AWS)
+
+
 <br />
 
 ### Languages and Tools:
@@ -31,17 +45,6 @@
 
 ---
 
-### 🎓 Background
-
-- Computer Engineer Degree - Universidade São Judas
-- Deep Learning Specialization provided by DeepLearning.ai
-
-### 📚 Current Studying
-
-- Deep Learning Udacity Nanodegree
-- Computer Vision 
-- Deployment into production of ML / DS Projects
-- Cloud Computing (AWS)
 
 
 
