@@ -1,6 +1,6 @@
 ### Hi there, I'm Bruno Carvalho! 👋
 
-- 🔭 I just completed my first degree by São Judas university: Computer Engineering
+- 🔭 I have Recently graduated in Computer Engineer 
 - 🌱 I’m currently exploring and learning the AI field
 - ⚡ Fun fact: I love playing videogames 
 
