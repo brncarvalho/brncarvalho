@@ -6,7 +6,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bruno-carvalho-48433016b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="bruno-carvalho-48433016b/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svge" />
+  </a>&nbsp;&nbsp;
 
 
 ### 🎓 Background
