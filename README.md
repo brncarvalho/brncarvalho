@@ -16,14 +16,16 @@ I hold a degree in Computer Engineering from São Judas Tadeu University in São
 
 
 ### Profissional 🏢
-Trabalho na área de dados desde 2018, descobrindo como os dados podem nos ajudar com insights, resolução de problemas e tomadas de decisões nos negócios. De lá para cá passei por diferentes empresas, onde minha atual posição é coomo Analisa de Negócios na Deloitte, acessorando processos de M&A e Due Dillengence com criação de fluxos de ETL, automatização/definição de processos e análise de dados.
+I have been working in the field of data since 2018, uncovering how data can assist us with insights, problem-solving, and business decision-making. Since then, I've journeyed through different companies, where my current role is as a Business Analyst at Deloitte. I support M&A and Due Diligence processes by creating ETL workflows, automating/defining processes, and analyzing data.
 
 
 ### Professional Experience
 
-🛒 Service Engineer Internship - Whirlpool Corporation (08.2018 - 08.2020) 
-📘 Data Anlyst - Instituto Paulista do Transporte de Cargas  (10.2021 - 03.2023)
-💻 Business Analyst - Deloitte  (2023-03 - atual)
+🛒 Service Engineer Internship - Whirlpool Corporation (08.2018 - 08.2020) <br> 
+
+📘 Data Analyst - Instituto Paulista do Transporte de Cargas  (10.2021 - 03.2023)  <br>
+
+💻 Business Analyst - Deloitte  (2023-03 - atual)  <br>
 
 ### Education
 
@@ -31,11 +33,15 @@ Trabalho na área de dados desde 2018, descobrindo como os dados podem nos ajuda
 
 
 ### Licenses & certifications
-SQL Beginner to Advanced For Data Professionals - Codebasics (Jan 2023)
-Taming Big Data with Apache Spark and Python - Hands On! - Udemy (Jan 2023)
-Crash Course on Python - Coursera (Oct 2020)
-Neural Networks and Deep Learning - Coursera (Oct 2020)
-Yellow Belt Lean Six Sigma OpEx - Whirlpool Corporation (Oct 2019)
+SQL Beginner to Advanced For Data Professionals - Codebasics (Jan 2023) <br> 
+
+Taming Big Data with Apache Spark and Python - Hands On! - Udemy (Jan 2023) <br> 
+
+Crash Course on Python - Coursera (Oct 2020) <br> 
+
+Neural Networks and Deep Learning - Coursera (Oct 2020) <br> 
+
+Yellow Belt Lean Six Sigma OpEx - Whirlpool Corporation (Oct 2019) <br> 
 
 
 ### Languages and Tools:
