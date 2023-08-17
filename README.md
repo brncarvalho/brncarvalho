@@ -1,38 +1,41 @@
-### Hi there, I'm Bruno Carvalho! 👋
+### Hi there, I'm Bruno!
 
+```mermaid
 gantt
-dateFormat  YYYY-MM-DD
-title My Timeline
+    dateFormat  YYYY-MM-DD
+    title My Timeline
 
-section Carreira
-Whirlpool Corporation :active,, 2018-08-15,2020-08-15
-Instituto Paulista do Transporte de Cargas :active,, 2021-10-18,2023-03-01
-Deloitte :active,, 2023-03-01,2023-12-31
+    section Carrer
+    Whirlpool Corporation :active,, 2018-08-15,2020-08-15
+    Instituto Paulista do Transporte de Cargas :active,, 2021-10-18,2023-03-01
+    Deloitte :active,, 2023-03-01,2023-12-31  
+```
 
-
-- 🔭 I have recently graduated in Computer Engineer 
-- 🌱 I’m currently exploring and learning the AI field
-- ⚡ Fun fact: I love playing videogames and looking forward to develop my first game on the future just for fun
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/bruno-carvalho-48433016b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+### Educational Background 🎓
+I hold a degree in Computer Engineering from São Judas Tadeu University in São Paulo, the city where I was born, raised, studied, and currently reside
 
 
-### 🎓 Background
+### Profissional 🏢
+Trabalho na área de dados desde 2018, descobrindo como os dados podem nos ajudar com insights, resolução de problemas e tomadas de decisões nos negócios. De lá para cá passei por diferentes empresas, onde minha atual posição é coomo Analisa de Negócios na Deloitte, acessorando processos de M&A e Due Dillengence com criação de fluxos de ETL, automatização/definição de processos e análise de dados.
 
-- Computer Engineer Degree - Universidade São Judas
-- Deep Learning Specialization provided by DeepLearning.ai
 
-### 📚 Current Studying
+### Professional Experience
 
-- Deep Learning Udacity Nanodegree
-- Computer Vision 
-- Deployment into production of ML / DS Projects
-- Cloud Computing (AWS)
+🛒 Service Engineer Internship - Whirlpool Corporation (08.2018 - 08.2020) 
+📘 Data Anlyst - Instituto Paulista do Transporte de Cargas  (10.2021 - 03.2023)
+💻 Business Analyst - Deloitte  (2023-03 - atual)
 
+### Education
+
+🗞️ Computer Engineering - Universidade São Judas Tadeu (2016 - 2021)
+
+
+### Licenses & certifications
+SQL Beginner to Advanced For Data Professionals - Codebasics (Jan 2023)
+Taming Big Data with Apache Spark and Python - Hands On! - Udemy (Jan 2023)
+Crash Course on Python - Coursera (Oct 2020)
+Neural Networks and Deep Learning - Coursera (Oct 2020)
+Yellow Belt Lean Six Sigma OpEx - Whirlpool Corporation (Oct 2019)
 
 
 ### Languages and Tools:
