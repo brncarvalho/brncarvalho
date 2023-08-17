@@ -1,5 +1,15 @@
 ### Hi there, I'm Bruno Carvalho! 👋
 
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
+
+section Carreira
+Whirlpool Corporation :active,, 2018-08-15,2020-08-15
+Instituto Paulista do Transporte de Cargas :active,, 2021-10-18,2023-03-01
+Deloitte :active,, 2023-03-01,2023-12-31
+
+
 - 🔭 I have recently graduated in Computer Engineer 
 - 🌱 I’m currently exploring and learning the AI field
 - ⚡ Fun fact: I love playing videogames and looking forward to develop my first game on the future just for fun
