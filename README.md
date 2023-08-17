@@ -24,7 +24,7 @@ I have been working in the field of data since 2018, uncovering how data can ass
 
 📘 Data Analyst - Instituto Paulista do Transporte de Cargas  (10.2021 - 03.2023)  <br>
 
-💻 Business Analyst - Deloitte  (2023-03 - atual)  <br>
+💻 Business Analyst - Deloitte  (03.2023 - atual)  <br>
 
 ### Education
 
