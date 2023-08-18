@@ -7,6 +7,7 @@ gantt
 
     section Carrer
     Whirlpool Corporation :active,, 2018-08-15,2020-08-15
+    Studying :active,, 2018-08-15,2020-08-15
     Instituto Paulista do Transporte de Cargas :active,, 2021-10-18,2023-03-01
     Deloitte :active,, 2023-03-01,2023-12-31  
 ```
