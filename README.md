@@ -9,7 +9,8 @@ gantt
     Whirlpool Corporation :active,, 2018-08-15,2020-08-15
     Studying :active,, 2020-08-15, 2021-10-18
     Instituto Paulista do Transporte de Cargas :active,, 2021-10-18,2023-03-01
-    Deloitte :active,, 2023-03-01,2023-12-31  
+    Deloitte :active,, 2023-03-01,2023-12-31
+    Logicalis :active,, 2024-01-01,2024-12-31 
 ```
 ### Educational Background 🎓
 I hold a degree in Computer Engineering from São Judas Tadeu University in São Paulo, the city where I was born, raised, studied, and currently reside
