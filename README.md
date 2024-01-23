@@ -13,11 +13,11 @@ gantt
     Logicalis :active,, 2024-01-01,2024-12-31 
 ```
 ### Educational Background 🎓
-I hold a degree in Computer Engineering from São Judas Tadeu University in São Paulo, the city where I was born, raised, studied, and currently reside
+I hold a degree in Computer Engineering from São Judas Tadeu University in São Paulo, the city where I was born, raised, and currently reside.
 
 
 ### Profissional 🏢
-I have been working in the field of data since 2018, uncovering how data can assist us with insights, problem-solving, and business decision-making. Since then, I've journeyed through different companies, where my current role is as a Business Analyst at Deloitte. I support M&A and Due Diligence processes by creating ETL workflows, automating/defining processes, and analyzing data.
+I have been working in the field of data since 2018, uncovering how data can assist us with insights, problem-solving, and business decision-making. Since then, I've journeyed through different companies, where my current role is as a Global Platform Analyst at Logicalis.
 
 
 ### Professional Experience
@@ -26,7 +26,9 @@ I have been working in the field of data since 2018, uncovering how data can ass
 
 📘 Data Analyst - Instituto Paulista do Transporte de Cargas  (10.2021 - 03.2023)  <br>
 
-💻 Business Analyst - Deloitte  (03.2023 - atual)  <br>
+📘  Business Analyst - Deloitte  (03.2023 - 12.2023)  <br>
+
+💻  Global Platform Analyst - Logicalis  (01.2024 - present)  <br>
 
 ### Education
 
